@@ -3,6 +3,7 @@ Rencana Belajar Giservin
 - Node.js
   - Back-end
   - Package Manager
+- AWS
 - Laravel
 - Golang
 - DevOps
