@@ -4,6 +4,7 @@ Rencana Belajar Giservin
   - Back-end
   - Package Manager
 - AWS
-- Laravel
+  - Cisco
+  - Mikrotik
 - Golang
 - DevOps
