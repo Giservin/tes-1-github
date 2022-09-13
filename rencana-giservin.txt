@@ -5,6 +5,9 @@ Rencana Belajar Giservin
   - Package Manager
 - AWS
   - Cisco
-  - Mikrotik
+- Laravel
 - Golang
 - DevOps
+  - Linux
+  - Ansible
+- Python
