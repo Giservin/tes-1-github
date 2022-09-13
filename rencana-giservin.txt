@@ -1,0 +1,8 @@
+Rencana Belajar Giservin
+
+- Node.js
+  - Back-end
+  - Package Manager
+- Laravel
+- Golang
+- DevOps
