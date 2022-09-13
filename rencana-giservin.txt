@@ -7,3 +7,6 @@ Rencana Belajar Giservin
 - Laravel
 - Golang
 - DevOps
+  - Linux
+  - Ansible
+- Python
